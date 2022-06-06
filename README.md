@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChiragPritmanii
 - 👀 My competency lies in Data Analytics, Machine Learning and Deep Learning
-- 💞️ I’m looking forward to collaborate on Data Analytics projects
+- 💞️ I’m looking forward to leverage skills to deliver business solutions
 - 📫 You can reach me at chirag.pritmani24@gmail.com or 9998169337
 
 <!---
