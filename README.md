@@ -2,7 +2,6 @@
 
 I have a strong foundation in delivering solutions across NLP, Computer Vision, and Audio domains, with a proven track record of solving complex problems. I’m recognized for my analytical thinking, effective communication, and collaborative approach. 
 
-As a founding team member at Soundverse AI, I contribute to pioneering advancements at the intersection of technology and music.
 <!---
 ChiragPritmanii/ChiragPritmanii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
